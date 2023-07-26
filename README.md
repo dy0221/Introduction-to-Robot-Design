@@ -9,3 +9,5 @@
 4. termProject0이라고 적었는데, 매주 있던 과제중 하나로 라인트레이싱 하기 였습니다.  
 
 ## termProject0
+https://youtu.be/ghHa1IlgGxM  
+[![Video Label](http://img.youtube.com/vi/59USvjy2toI/0.jpg)](https://youtu.be/ghHa1IlgGxM)
