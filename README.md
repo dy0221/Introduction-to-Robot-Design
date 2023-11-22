@@ -40,7 +40,7 @@ Stack처럼 일정한 우선순위속에서 장애물을 만나면 만난 횟수
 로봇이 움직이는 workspce를 이해하고 inverse kinematics를 계산한 값을 바탕으로 이미 있는 볼트나 움직일수 없는 위치를  
 피해 Trajectory Planning을 진행하였다.  
 색을 인식한 방법은 똑같이 pixy를 사용하여 픽시의 픽셀을 나누어서 한번에 4새씩 3번 총 12칸의 rgb를 인식하고 각각의  
-멎는 볼트를 찾아 넣는 알고리즘으로 진행하였다.
+맞는 볼트를 찾아 넣는 알고리즘으로 진행하였다.
 
 ## termProject3
 [![Video Label](http://img.youtube.com/vi/ILr9IeQixqk/0.jpg)](https://youtu.be/ILr9IeQixqk)
